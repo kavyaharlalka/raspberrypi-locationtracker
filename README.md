@@ -1,2 +1,2 @@
 # raspberrypi-locationtracker
-Python scripts that run on Raspberry Pi to provide live location
+Track location of Raspberry Pi connected moving vehicle using location data cell tower
