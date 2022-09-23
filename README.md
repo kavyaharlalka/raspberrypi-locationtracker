@@ -1,2 +1,2 @@
 # raspberrypi-locationtracker
-Track location of Raspberry Pi connected moving vehicle using location data cell tower
+Track location of Raspberry Pi using GPS and cell towers.
